@@ -1,0 +1,2 @@
+# Rails_Forum
+A personal project I started to teach myself Ruby on Rails. The code is very similar to CodeCademy's Rails course as well as some from Michael Hartl's Rails tutorial. It's essentially a forum where you must log in to view and write messages as well as make replies. ****Note this project comes from the Messenger_App folder in my Ruby_On_Rails repo so if you want to view commits and messages go there**** 
